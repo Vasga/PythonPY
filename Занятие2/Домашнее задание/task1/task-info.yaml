@@ -22,7 +22,7 @@ files:
       length: 202
       offset: 208
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       for i, current_value in enumerate(list_):
