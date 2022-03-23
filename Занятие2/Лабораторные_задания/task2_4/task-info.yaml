@@ -29,7 +29,7 @@ files:
     status: Unchecked
     encrypted_possible_answer: 5
   - offset: 120
-    length: 63
+    length: 66
     placeholder_text: '# TODO как использовать начальное смещение в команде enumerate?'
     initial_state:
       length: 63
