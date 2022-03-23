@@ -11,7 +11,7 @@ files:
       offset: 126
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       for value in list_:  # перебираем все числа
           if value % 2 == 0:
@@ -34,6 +34,6 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
