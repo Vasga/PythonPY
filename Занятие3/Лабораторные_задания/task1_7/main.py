@@ -1,5 +1,6 @@
 # TODO написать функцию для поиска количества месяцев
 def prozit_(money_capital, salaru, spend, 0.05)
+    month = 0
 
 
 if __name__ == "__main__":
