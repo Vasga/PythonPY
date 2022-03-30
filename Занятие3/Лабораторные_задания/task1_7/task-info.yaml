@@ -22,7 +22,7 @@ files:
               money_capital += salary
 
           return month
-  - offset: 87
+  - offset: 135
     length: 57
     placeholder_text: '...  # TODO вызвать функцию и проверить работоспособность'
     initial_state:
