@@ -1,5 +1,6 @@
 if __name__ == "__main__":
     num1 = 12345
+    print (type(num1))
     print(list(str(num1)))
 
     # Конструкция для разбития числа на цифры
