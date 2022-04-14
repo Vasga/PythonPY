@@ -79,6 +79,8 @@
 #print("Четных чисел", len(list_digits))
 #print("Нечетных чисел", len(list_digits1))
 
+a = int(input("Сколько пробежал км "))
+b = int(input("насколько увеличил пробег "))
 
 
 
