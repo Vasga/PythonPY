@@ -9,14 +9,14 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 57
+    length: 208
     placeholder_text: '...  # TODO найти количество натуральных чисел кратных 23'
     initial_state:
       length: 57
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       start = 138  # первое натуральное число которое кратно 23
       end = 10000  # не превышающих 9999, значит 9999 включительно
@@ -29,5 +29,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 14 Apr 2022 11:29:13 UTC
 record: -1

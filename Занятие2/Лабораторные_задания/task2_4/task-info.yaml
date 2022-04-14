@@ -26,17 +26,17 @@ files:
       offset: 75
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 5
   - offset: 120
-    length: 66
+    length: 94
     placeholder_text: '# TODO как использовать начальное смещение в команде enumerate?'
     initial_state:
       length: 63
       offset: 122
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       for offset, char in enumerate(phrase, start=initial_offset):
               print(" " * offset, char)
@@ -49,5 +49,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 14 Apr 2022 12:20:01 UTC
 record: -1

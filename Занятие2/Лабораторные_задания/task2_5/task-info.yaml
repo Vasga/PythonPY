@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 126
-    length: 63
+    length: 123
     placeholder_text: '# TODO посчитать количество четных и нечетных значений в списке'
     initial_state:
       length: 63
       offset: 126
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: |-
       for value in list_:  # перебираем все числа
@@ -35,5 +35,7 @@ files:
   visible: false
   learner_created: false
 status: Solved
+feedback:
+  time: Thu, 14 Apr 2022 12:22:08 UTC
 record: -1
 post_submission_on_open: true

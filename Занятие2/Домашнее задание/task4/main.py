@@ -1,3 +1,5 @@
 if __name__ == "__main__":
     # Write your solution here
-    pass
+    spisok_ = list(range(10))
+    print(spisok_)
+

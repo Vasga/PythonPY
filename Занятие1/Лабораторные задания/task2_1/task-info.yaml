@@ -16,14 +16,14 @@ files:
   visible: true
   placeholders:
   - offset: 83
-    length: 54
+    length: 37
     placeholder_text: '# TODO Каждое из значений печатать на отдельной строке'
     initial_state:
       length: 54
       offset: 83
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       print(sum(tuple_))
       print(len(tuple_))
@@ -35,5 +35,8 @@ files:
 
     # TODO Каждое из значений печатать на отдельной строке
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 14 Apr 2022 11:24:41 UTC
 record: -1
