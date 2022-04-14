@@ -6,6 +6,11 @@ SECOND_PLAYER = "O"
 
 
 def main():
+
+
+
+    :return:
+
     field = init_field()
     print_field(field)
 

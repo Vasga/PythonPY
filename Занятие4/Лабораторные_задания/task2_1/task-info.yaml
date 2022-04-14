@@ -22,7 +22,7 @@ files:
       length: 67
       offset: 69
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: '[int(digit) for digit in str(number)]'
   - offset: 227
